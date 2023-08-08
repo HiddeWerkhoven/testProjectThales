@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="RemoteRepositoriesConfiguration">
+    <remote-repository>
+      <option name="id" value="central" />
+      <option name="name" value="Central Repository" />
+      <option name="url" value="https://repo.maven.apache.org/maven2" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="repository.nexus" />
+      <option name="name" value="repository.nexus" />
+      <option name="url" value="http://repository.int.kn:8081/nexus/content/groups/public" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="repository.us" />
+      <option name="name" value="repository.us" />
+      <option name="url" value="http://central.maven.org/maven2/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="repository.sonatype" />
+      <option name="name" value="repository.sonatype" />
+      <option name="url" value="http://repo1.maven.org/maven2" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="repository.tmatesoft" />
+      <option name="name" value="repository.tmatesoft" />
+      <option name="url" value="https://maven.tmatesoft.com/content/repositories/releases/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="repository.uk" />
+      <option name="name" value="repository.uk" />
+      <option name="url" value="http://uk.maven.org/maven2" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="central" />
+      <option name="name" value="Maven Central repository" />
+      <option name="url" value="https://repo1.maven.org/maven2" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="jboss.community" />
+      <option name="name" value="JBoss Community repository" />
+      <option name="url" value="https://repository.jboss.org/nexus/content/repositories/public/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="repository.nexus3" />
+      <option name="name" value="repository.nexus3" />
+      <option name="url" value="https://repository.int.kn/repository/maven/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="repository.apache" />
+      <option name="name" value="repository.apache" />
+      <option name="url" value="http://repo.maven.apache.org/maven2/" />
+    </remote-repository>
+  </component>
+</project>
